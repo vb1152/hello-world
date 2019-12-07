@@ -3,5 +3,4 @@ my first repository
 
 first step of a long and interesting jorney 
 
-change from 07.12.2019
-  
+change 07.12.2019 in another branch
